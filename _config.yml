@@ -11,7 +11,7 @@ links:
     url:          /about
   - name:         Blog
     url:          http://zhangminjie.net
-    external:     true
+    #external:     true
   - name:         GitHub
     url:          http://github.com/jie414341055
     external:     true
