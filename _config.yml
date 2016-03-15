@@ -1,4 +1,4 @@
-title:            Scribble
+title:            minjie's blog
 description:      A jekyll theme. Because I scribble.
 url:              # Site url, without a slash at the end.
 signoff:          # Your name.
@@ -10,10 +10,10 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          http://zhangminjie.net
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/jie414341055
     external:     true
 highlighter:      pygments
 permalink:        pretty
